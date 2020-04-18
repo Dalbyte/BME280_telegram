@@ -1,5 +1,10 @@
 # BME280_telegram
-BME280 + wemos_d1 + deepsleep + telegram message
+BME280 + wemos_d1 + telegram message + deepsleep
+
+## Was macht es?
+
+Es sendet einen die Temperatur,Luftdruck und Luftfeuchtigkeit in Telegram. Und sorgt dafür das man ganz viel ungelesen Nachrichten hat.
+
 
 ## Version 01
 
